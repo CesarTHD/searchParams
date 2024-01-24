@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+nav a{
+    color: #6600FF;
+    font-size: 1.2em;
+    margin: 10px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #990044;
+}
+
+.active{
+    background-color: grey;
+    color: #990044;
+}

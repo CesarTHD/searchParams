@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "geladeira",
+            "price": "700"
+        },
+        {
+            "id": "2",
+            "name": "fogão",
+            "price": "300"
+        },
+        {
+            "id": "3",
+            "name": "microondas",
+            "price": "150"
+        }
+    ]
+}

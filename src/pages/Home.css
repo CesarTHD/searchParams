@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+
+.products h3{
+    margin: 0;
+}
+
+.products{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.products li{
+    border: solid rgb(197, 197, 197) 1px;
+    border-radius: 5px;
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    width: 200px;
+}
